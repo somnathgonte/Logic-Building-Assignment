@@ -17,6 +17,7 @@ public class Lb4Problem1
         }
         System.out.println(multiply);
     }
+    
     public static void main(String arg[])
     {
         Scanner sc = new Scanner(System.in);
