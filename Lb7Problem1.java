@@ -2,6 +2,7 @@
 //Input: 2395
 //Output: 1
 
+
 import java.util.*;
 public class Demo
 {
