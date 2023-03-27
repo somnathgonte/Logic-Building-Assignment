@@ -14,6 +14,7 @@ public class Program4
             }
         }
     }
+    
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in);
@@ -21,5 +22,4 @@ public class Program4
         int iNo1 = sc.nextInt();
         displayFactor(iNo1);
     }
-    
 }
