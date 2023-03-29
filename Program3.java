@@ -19,5 +19,4 @@ public class Program3
         int iNo1 = sc.nextInt();
         printEven(iNo1);
     }
-    
 }
