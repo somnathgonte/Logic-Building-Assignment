@@ -2,6 +2,7 @@
 //Input: 2395
 //Output: 270
 
+
 import java.util.*;
 public class Lb7Problem4
 {
